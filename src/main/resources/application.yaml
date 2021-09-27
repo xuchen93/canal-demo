@@ -1,0 +1,8 @@
+canal:
+  server: 114.67.100.84:11111
+  user-name:
+  password:
+  destination: example
+logging:
+  level:
+    top.javatool.canal.client.client: warn
